@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import 'add_screen.dart';
 import 'detail_screen.dart';
 
@@ -43,13 +42,3 @@ class HomeScreen extends StatelessWidget {
     );
   }
 }
-
-//TODO メモ
-/*
-投稿する内容
-・漫画の名前
-
-画像（ネットからランダムに取得？？）
-アイコン（適当？？）
-巻数
- */
